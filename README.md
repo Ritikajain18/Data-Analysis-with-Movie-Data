@@ -1,4 +1,4 @@
-:camera: # Movie Data Analytics
+# Movie Data Analytics
 
 
 # Dataset:
