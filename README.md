@@ -11,7 +11,7 @@ This data set contains information about 10,000 movies collected from The Movie 
 
 All the codes are written on Jupyternotebook. The python libraries include numpy, pandas, matplotlib and seaborn. Please make sure you have all these libraries installed.
 
-# Visualizatuon of each variable
+# VisualizatIon of each variable
 ![](Graph.PNG)
 # Conclusion:
 Based on the analysis, we can conclude:
